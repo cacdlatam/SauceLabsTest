@@ -1,4 +1,4 @@
-describe('CDBU Modern Software Factory UI Test - xxx Environment', function() {
+describe('CDBU Modern Software Factory UI Test - QA Environment', function() {
   it('should add a todo', function() {
     browser.ignoreSynchronization = true;
     browser.get('pre-raffle-latam.us-east-2.elasticbeanstalk.com');
